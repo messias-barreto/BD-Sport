@@ -1,0 +1,11 @@
+#card{
+    margin-top: 40px;
+}
+
+#card:hover{
+    border: 3px solid;
+}
+
+a:link{
+    text-decoration: none;
+}
